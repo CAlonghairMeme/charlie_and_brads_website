@@ -1,0 +1,45 @@
+*{
+    font-family: Consolas, monaco, monospace;
+}
+
+body {
+    background: #cdedc9;
+}
+
+.navigation{
+  background: linear-gradient(to bottom right, #2f7cf9, #2ff975);
+  width: 100%;
+  padding-top: 0;
+}
+
+.websiteTitle{
+    text-align: left;
+    width:5px;
+    font-size:24px;
+    color:#d2d0ea;
+}
+
+.navButton{
+    background-color: #FFFFFF;
+    background: linear-gradient(to bottom, #e8900d, #e24b22);
+    background: radial-gradient(elipse closest-side at 50px 10px, #e8900d 0%, #e24b22 100%);
+    text-align: center;
+    width:15%;
+    color: #3700ff;
+    
+}
+
+.welcome{
+    font-size: 32px;
+    color: #a00000;
+    text-align: center;
+}
+
+
+.fill-div {
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+}
+
